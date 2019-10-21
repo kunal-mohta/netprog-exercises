@@ -1,2 +1,2 @@
 run:
-	@gcc mmap_write.c
+	@gcc http_req.c

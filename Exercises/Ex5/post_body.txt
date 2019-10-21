@@ -1,0 +1,2 @@
+This is the default post body.
+Please edit this as per requirement.
