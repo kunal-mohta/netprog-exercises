@@ -3,7 +3,7 @@
 #include<sys/socket.h>
 #include<arpa/inet.h>
 
-#define DFL_PORT 5000
+#define DFL_PORT 2000
 
 int main (int argc, char *argv[]) {
 	int i;
